@@ -1,0 +1,19 @@
+{
+    "name": "guru/contact",
+    "description": "pkg",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "guruprasad",
+            "email": "mdbstech@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "guruprasad\\Contact\\": "src/"
+        }
+    }
+}
